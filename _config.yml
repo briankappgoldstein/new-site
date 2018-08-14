@@ -16,8 +16,8 @@
 title: Brian Goldstein
 email: brian@briankappgoldstein.com
 description: Brian Goldstein is a Front End Developer with a passion for deadlifting and cats. 
-baseurl: "/new-site" # the subpath of your site, e.g. /blog
-url: "https://briankappgoldstein.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: briangoldstein
 github_username:  briankappgoldstein
 instagram_username: briankappgoldstein
