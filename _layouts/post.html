@@ -14,7 +14,7 @@ layout: default
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}</p>
       {% if page.categories.size > 0 %}
-          Categor{% if page.categories.size > 0 %}y{% endif %}{% if page.categories.size > 1 %}ies{% endif %}
+          Categor{% if page.categories.size = 1 %}y{% endif %}{% if page.categories.size > 1 %}ies{% endif %}
             {{ page.categories | sort | join: ", " }}
       {% endif %}
   </header>
