@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Finally"
+date:   2018-08-13 13:05:19 -0400
+categories: personal site
+---
+Oy vey with the poodles already. 
+
+It's been nearly 2 years since I've done an overhaul of my personal site. A lot has happened since then, namely, we've had a kid and moved cross country! 
+
+It was time for a change, and after having gone around and around on different iterations, just time to get *something* up. This new site is on Jekyll (for now), and uses the Minima default theme (again, for now). I chose Jekyll because it's fast to get up and running and because GH pages is free. 
+
+I strongly urge you to subscribe via RSS, because I do plan on posting pretty frequently. 
+
