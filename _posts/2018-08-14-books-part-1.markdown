@@ -2,7 +2,7 @@
 layout: post
 title: "Books, part 1"
 date: 2018-08-14 10:41:00 -0400
-categories: reading, writing, learning, hobbies
+categories: [reading writing learning hobbies]
 ---
 
 ## I try to read a lot and I think everyone should read more

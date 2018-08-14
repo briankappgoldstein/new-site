@@ -2,7 +2,7 @@
 layout: post
 title: "Training without barbells"
 date:   2018-08-14 09:17:00 -0400
-categories: training
+categories: [training]
 ---
 
 So, we moved to Virginia Theological Seminary (VTS) for my wife Meg to start her formation to ordination as a priest in the Episcopal church. One of the benefits is that on the same 81 acres is the Episcopal High School (EHS), which is magnificent to stroll through and conveniently has a Fitness Center available for use by VTS families.

@@ -2,7 +2,7 @@
 layout: post
 title: "Green Book"
 date: 2018-08-14 13:10:00 -0400
-categories: movies
+categories: [movies]
 ---
 
 Well this looks great:
