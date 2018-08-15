@@ -16,7 +16,7 @@ It is not as if I *loved* St. Louis so much. There was a small slice of that pla
 
 For someone like me, so comfortable feeling a part from rather than a part of, that traction was no small thing. 
 
-And I *really* like Alexandria, so far, from what I've seen. The phrase "quality of life" springs to mind, because every day we see people from all walks of life, and every corner of the planet and culture living more or less harmoniously here. There's good schools, libraries and neighborhoods, and it's pretty easy to get around. There's even a reform I don't even really want to mess with the hassle of going in to DC proper. 
+And I *really* like Alexandria, so far, from what I've seen. The phrase "quality of life" springs to mind, because every day we see people from all walks of life, and every corner of the planet and culture living more or less harmoniously here. There's good schools, libraries and neighborhoods, and it's pretty easy to get around. There's even a reform synagogue across the street that I like and will start to attend. I don't even really want to mess with the hassle of going in to DC proper. 
 
 Of course though, being new anywhere has its' downsides. As my brother in law says "The first year in a new place just sucks". And even with my loins girded for the reality of it just sucking, the reality is nonetheless, hard to endure. 
 
