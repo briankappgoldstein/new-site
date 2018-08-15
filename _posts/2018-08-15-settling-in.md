@@ -7,8 +7,8 @@ categories: [life with baby, moving, Alexandria, STL]
 
 <blockquote>
 	"I'm getting too old for this sh*t". 
-	<cite>Det. Roger Murtaugh, as played by Danny Glover</cite>
 </blockquote>
+<cite>Det. Roger Murtaugh, as played by Danny Glover</cite>
 
 That's the Murtaugh Rule. There comes a point in life where things that were common or routine when you were young, well, you're just too old for anymore. And for me, moving is one of them. 
 
