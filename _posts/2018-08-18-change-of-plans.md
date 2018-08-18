@@ -19,7 +19,7 @@ Don't have a rigid plan in place, just a goal and some key workouts. The most co
 	15 rounds 30 seconds row + 90 seconds rest. During rest do 5x light goblet squats or 5-10x push-ups. Each row interval should be uniform distance or as close to it.
 	then: 
 	10 minute cooldown row easy
-<blockquote>
+</blockquote>
 
 which is around ~6000-7000m depending on how fast you row. You could keep bumping up the rounds as long as the quality stays high, which I'll try to do.   
 
