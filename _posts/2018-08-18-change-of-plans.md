@@ -14,10 +14,10 @@ I'm going to cheat a little bit in that I'm going to do a half-marathon (21,097)
 Don't have a rigid plan in place, just a goal and some key workouts. The most common will likey be this 
 
 <blockquote>
-	10 minute warm-up row easy pace
-	then:
-	15 rounds 30 seconds row + 90 seconds rest. During rest do 5x light goblet squats or 5-10x push-ups. Each row interval should be uniform distance or as close to it.
-	then: 
+	10 minute warm-up row easy pace<br>
+	then:<br>
+	15 rounds 30 seconds row + 90 seconds rest. During rest do 5x light goblet squats or 5-10x push-ups. Each row interval should be uniform distance or as close to it.<br>
+	then: <br>
 	10 minute cooldown row easy
 </blockquote>
 
