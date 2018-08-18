@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Change of Plans"
-date: 2018-08-17 09:30:00 -400
+date: 2018-08-18 09:30:00 -400
 categories: [training, rowing]
 ---
 
