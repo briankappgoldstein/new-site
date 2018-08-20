@@ -3,11 +3,9 @@ layout: page
 title: Work
 permalink: /work/
 ---
-<h2 class="welcome"> Hi! I'm <span class="name">Brian Goldstein</span>.
+<p class="lead">Here's a sample of work I've done. Each item should feature a short description of the project, a few images from the project, my role, and technologies used. There's more to come.</p>
 
-<p class="subtitle">A sampling of work I've done. Each item should feature a short description of the project, a few images from the project, my role, and technologies used. There's more to come.</p>
-
-<div>
+<div class="home">
 {%- if site.work.size > 0 -%}
     <ul class="post-list">
       {%- for item in site.work -%}
