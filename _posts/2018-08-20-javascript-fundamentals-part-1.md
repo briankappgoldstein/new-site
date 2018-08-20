@@ -5,7 +5,7 @@ date: 2018-08-20 13:00 -0400
 categories: [javaScript, front end development, professional development]
 ---
 
-I've lost track of the amount of times I've been embarassed by my lack of JavaScript understanding and I've finally resolved to do something about it. I use it all of the time. I'm able to do things with it, particularly using jQuery for DOM manipulation. But I don't understand it a level I need to. That's cost me a lot of headaches and a few heartbreaks too.
+I've lost track of the amount of times I've been embarassed by my lack of JavaScript understanding and I've finally resolved to do something about it. I use it all of the time. I'm able to do things with it, particularly using jQuery for DOM manipulation. But I don't understand it at a level I need to. That's cost me a lot of headaches and a few heartbreaks too.
 
 I'm working my way through a short course on [The Gymnasium](https://thegymnasium.com/) to brush up on my fundamentals before moving on to a popular framework like Vue or React.
 
