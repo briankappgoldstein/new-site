@@ -10,14 +10,14 @@ Where posts categorized as projects will go.
 
 {%- if site.work.size > 0 -%}
     <ul class="post-list">
-      {%- for post in site.work -%}
+      {%- for item in site.work -%}
       <li>
         <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
+          <a class="post-link" href="{{ item.url | relative_url }}">
+            {{ item.title | escape }}
           </a>
         </h3>
-          {{ post.excerpt }}
+          {{ item.excerpt }}
       </li>
       {%- endfor -%}
     </ul>
