@@ -23,9 +23,8 @@ github_username:  briankappgoldstein
 instagram_username: briankappgoldstein
 timezone: America/New_York
 collections: 
-- work:
- - output: true
-- archive
+  work:
+    output: true
 
 # Build settings
 markdown: kramdown
