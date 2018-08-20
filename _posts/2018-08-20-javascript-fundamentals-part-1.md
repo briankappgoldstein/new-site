@@ -24,6 +24,7 @@ Oh!  here's a small sample bit of today's lesson. This script compares term1 and
 	} else {
 	  console.log("There is no" + term2 + "in" + term1);
 	}
-</code>   
 
-in this case, because term1 is in term2, it would output the first message. There's a lot going on there, and while it isn't particularly complex or useful, shows you that I'm getting there. 
+  
+
+In this case, because term1 is in term2, it would output the first message. There's a lot going on there, and while it isn't particularly complex or useful, shows you that I'm getting there. 
