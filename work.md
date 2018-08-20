@@ -3,6 +3,8 @@ layout: page
 title: Work
 permalink: /work/
 ---
+<h2 class="welcome"> Hi! I'm <span class="name">Brian Goldstein</span>.
+
 <p class="subtitle">A sampling of work I've done. Each item should feature a short description of the project, a few images from the project, my role, and technologies used. There's more to come.</p>
 
 <div>
