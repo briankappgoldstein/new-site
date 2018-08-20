@@ -25,6 +25,7 @@ timezone: America/New_York
 collections: 
 - work
 - archive
+collections_dir: my_collections
 
 # Build settings
 markdown: kramdown
