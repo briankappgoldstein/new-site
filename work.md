@@ -4,9 +4,7 @@ title: Work
 permalink: /work/
 ---
 
-# Coming Soon
 
-Where posts categorized as projects will go.
 <div>
 {%- if site.work.size > 0 -%}
     <ul class="post-list">
