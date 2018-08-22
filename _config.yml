@@ -22,6 +22,7 @@ twitter_username: briangoldstein
 github_username:  briankappgoldstein
 instagram_username: briankappgoldstein
 timezone: America/New_York
+paginate: 5
 collections: 
   work:
     output: true
