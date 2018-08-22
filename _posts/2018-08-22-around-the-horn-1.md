@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "around-the-horn, #1"
+title: "Around the Horn, #1"
 date: 2018-08-22 13:00:00 -0400
 categories: [life, seminary, links, NBA, mental health, judaism, news, Around the Horn]
 ---
