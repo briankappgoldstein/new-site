@@ -1,6 +1,6 @@
 ---
 title: Aglio e Olio shows what Americans get wrong about, well, everything.
-categories: cooking, culture, food, Italian
+categories: cooking culture food Italian
 ---
 
 Far from the only example, just the one that I am choosing today. It's also the one I'm most familiar with, and it's so easy and so enjoyable to eat, I need to share with you. 
