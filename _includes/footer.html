@@ -16,7 +16,7 @@
             {%- endif -%}
             </li>
             {%- if site.email -%}
-            <li><a class="u-email" >{{ site.email }}</a></li><!-- href="mailto:{{ site.email }}"-->
+            <li><a class="u-email" href="mailto:{{ site.email | encode_email }}" title="Contact me">{{ site.email }}</a></li>
             {%- endif -%}
         </ul>
       </div>
