@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JavaScript Fundamentals, Lesson 3: DOM manipulation
+title: "JavaScript Fundamentals, Lesson 3: DOM manipulation"
 date: 2018-08-24 16:30:00 -0400
 categories: [javascript, learning, professional development]
 ---
