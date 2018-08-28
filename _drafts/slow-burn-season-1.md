@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Slow Burn, Season 1"
-date: 2018-08-29 08:45:00 -0400
+date: 2018-08-28 08:45:00 -0400
 categories: [podcasts nixon americana watergate]
 ---
 
