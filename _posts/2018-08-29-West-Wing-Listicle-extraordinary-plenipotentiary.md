@@ -21,7 +21,7 @@ Over a run of 156 episodes, this show has been education, entertainment, therapy
 7 - *Life on Mars* 4.21
 	Maybe I just have a thing for how Sorkin writes a particular brand of Republican (the kind that seem extinct). Still, this is a great episode. How Joe Quincy gets from a science reporter's question to the eventual resignation of the Vice President is as good as it gets.
 	
-6 -* King Corn* 6.13 
+6 - *King Corn*  6.13 
 	This is maybe my favorite episode because it is so tonally different than every other episode.  Using Rashomon structure, it takes the day from three prespectives and brings it together. 
 	
 5 - *Noel* 2.10
@@ -42,7 +42,7 @@ Over a run of 156 episodes, this show has been education, entertainment, therapy
 #### Honorable Mentions: #### 
 Other great episodes that are worth watching on their own. 
 
-*Celestial Navigation *1.15 - cause of Edward James Olmos, 
+*Celestial Navigation* 1.15 - cause of Edward James Olmos, 
 
 *What Kind of Day Has it Been* 1.22 - "Decisions are made by those who show up", 
 
@@ -52,7 +52,7 @@ Other great episodes that are worth watching on their own.
 
 *Somebody's Going to Emergency* 2.16 - best Sam episode, 
 
-*The Stackhouse Fillibuster *2.17 - because it uses the epistolary technique to tell a good story, 
+*The Stackhouse Fillibuster* 2.17 - because it uses the epistolary technique to tell a good story, 
 
 *The Two Bartlets* 3.12 - no more uncle fluffy,  
 
@@ -95,10 +95,10 @@ Other great episodes that are worth watching on their own.
 
 4 - *Swiss Diplomacy* 4.9 - yea, convenient nuclear scare with the Iranians. ok. 
 
-3 - *The Hubbert Peak *6.5 - Toby briefing is fun, but everything Josh touches is hot garbage in this episode. 
+3 - *The Hubbert Peak*  6.5 - Toby briefing is fun, but everything Josh touches is hot garbage in this episode. 
 
-2 - *The Supremes* 5.17 - I would totally watch a show about this Supreme Court, but this episode and the one below are the height of the problems with this show. The idea that 7 people run the government through cute tricks to effect grand gestures isn't the ethos of the show, but it is the most parodiable. 
+2 - *The Supremes*  5.17 - I would totally watch a show about this Supreme Court, but this episode and the one below are the height of the problems with this show. The idea that 7 people run the government through cute tricks to effect grand gestures isn't the ethos of the show, but it is the most parodiable. 
 
-1 - *Slow News Day* 5.12 In which Toby destroys Social Security, singlehandedly, in one episode. yea...
+1 - *Slow News Day*  5.12 In which Toby destroys Social Security, singlehandedly, in one episode. yea...
 
 after almost 20 years from the pilot - and over a dozen from the finale - there's a lot about the show that feels dated. But the relationships, the writing, the team, the ethos of duty - there's something lasting about this show.
