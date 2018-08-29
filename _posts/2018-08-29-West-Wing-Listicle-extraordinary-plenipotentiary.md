@@ -30,11 +30,11 @@ Over a run of 156 episodes, this show has been education, entertainment, therapy
 4 - *In Excelsis Deo* 1.10
 	Again, Christmas and Jews. Toby was always best - and most annoying- when he's the moral agitant on the show, and Toby's basic humanity to bury a homeless veteran with mourners present is deeply Jewish, deeply American, and deeply of the season. 
 	
-3 - *Bartlet For America *3.9
+3 - *Bartlet For America* 3.9
 	The West Wing was, among many things, a love story between Leo and Jed. Leo's performance in this episode never fails to reduce me to a weeping heep, and is emblematic of that central relationship. 
 	
 2 - *Seventeen People* 2.18
-	I'll let [[this guy](http://seventeenpeople.com/)] explain.
+	I'll let [this guy](http://seventeenpeople.com/) explain.
 	
 1 - *Two Cathedrals* 2.22 
 	What happens when a devout man is tested? " But if you don't run because you think it's gonna be too hard or you think you're gonna lose, well, God, Jed, I don't even want to know you." 
