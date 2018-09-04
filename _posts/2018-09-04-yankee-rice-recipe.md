@@ -8,7 +8,7 @@ I'm going to the trend I started in [this post](https://briankappgoldstein.githu
 Let me back up, because every dish has a good story. For many Jewish Americans, you'll recognize this as a variation on Fried Matzo, or Matzo Brie.  Hands down, my father makes the best Fried Matzo  this side of the Hudson, and it is one of my favorite comfort foods.  My father isn't a bad cook, but this one of the dishes he really excels at. 
 That dish is as simple and wonderful as this one, but I'll admit I almost never stock matzah outside of Passover season.  
 
-On my wife's mother's side, her grandmother Mimi grew up in Depression era Louisiana, and often there were simply not that many ingredients available. But you know what they did have? Rice, cause it grows there, and eggs, cause they kept hens. Hence, Yankee Rice. 
+On my wife's mother's side, her grandfather Papa grew up in Depression era Louisiana, one of 10 children, and often there were simply not that many ingredients available. But you know what they did have? Rice, cause it grows there, and eggs, cause they kept hens. And even that, their mother MawMaw, had to find a way to stretch. Hence, Yankee Rice. 
 
 Now, like most egg based dishes, you can add a variety of meats, vegetables and cheeses - I'll give my two favorite variations below - but this first time through, I want you to confine yourself to only these ingredients
 
