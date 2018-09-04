@@ -13,17 +13,7 @@ layout: default
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}
-      {% raw %}
-        <span class="reading-time" title="Estimated read time">
-          {% assign words = content | number_of_words %}
-          {% if words < 360 %}
-            1 min
-          {% else %}
-            {{ words | divided_by:180 }} mins
-          {% endif %}
-        </span>
-
-        {% endraw %}
+      {% include read-time.html %}
        {% if page.categories.size > 0 %}
           <span> Filed under: {{ page.categories | sort | join: ", " }} </span>
       {% endif %}
