@@ -9,7 +9,7 @@ Now, all the sessions are available to watch here: [https://2018.wpcampus.org/wa
 
 Here are the notes straight from my notepad: 
 
-###Nobody Puts WP in a Container###
+### Nobody Puts WP in a Corner
 
 Develop on Desktop
 Prove on Local
@@ -74,7 +74,8 @@ Security Concerns?
 How are you managing docker file? Once its in the registry you have a release (?)
 
 
-###Five Years of WordPress at a Public University - Jeremy Felt###
+### Five Years of WordPress at a Public University - Jeremy Felt
+
 leaving WSU to start his own agency
 WP Core team contributor for 6 years
 VVV creator
@@ -105,12 +106,12 @@ Kenyon Butterfield’s threefold purpose of university - organ of research, educ
 - Customize Snapshot
 - 
 
-###Lessons from Carleton###
+### Lessons from Carleton
 “Sometimes real life isn’t cutting edge”
 CDN -> Reverse Proxy —> Prod Servers —> Prod MYSQL —> Staging —> Dev —> Local
 DeployHQ - External Service that looks at github repo, it SSHs in and updates the files that changed
 
-###Future Proof Panel:###
+### Future Proof Panel:
 - be kind to your future self
 - design so you don’t have to redesign
 - web design is not a project because projects have an end date
