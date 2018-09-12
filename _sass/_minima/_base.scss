@@ -120,15 +120,15 @@ h5, h6 {
  * Links
  */
 a {
-  color: #B35016;
+  color: #ce2029 ;//#B35016;
   text-decoration: none;
 
   &:visited {
-    color: #876A59;
+    color: darken($brand-color, 10%);//#876A59;
   }
 
   &:hover {
-    color: #F06D21;
+    color: lighten($brand-color, 10%); //#F06D21;
     text-decoration: underline;
   }
 
@@ -180,7 +180,7 @@ blockquote {
 }
 
 .name {
-  color:#F06D21;
+  color: #ce2029; //#F06D21;
 }
 
 
