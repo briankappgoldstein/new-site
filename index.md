@@ -7,4 +7,4 @@ layout: home
 <div class="m-header">
 	<h2 class="welcome"> Hi! I'm <span class="name">Brian Goldstein</span>.
 
-	<p class="subtitle">This is the homepage. Pardon the dust, but I’m beginning the process of redesigning my site (finally). The most recent posts will be displayed here, regardless of category. For a portfolio of sorts, see <a href="/work">Work</a>.</p>
+	<p class="subtitle">Pardon the dust, redesign in progress. This is my personal, not at all formal site. I write what I like when I like. </p>
