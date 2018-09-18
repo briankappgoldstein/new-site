@@ -11,8 +11,8 @@ One of the things you should know about my family is that we are debt free. We d
 
 We even went on the Dave Ramsey show to do our debt free scream, and the money we saved allowed us to go on honeymoon in Maui. 
 
-<div class="flex-video">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_uARS9TtAKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="flex-video" style="margin-bottom:0;">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/_uARS9TtAKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 The reason I bring this up is multilayered: food is as much a reflection of where you are in your life as anything else, and also how it is useful to start with someone else's recipe first, while you learn, but then to move on to making a dish (or a budget) your own. 
