@@ -263,10 +263,43 @@
 }
 
 
-.flex-video {
-    position: relative;
-    height: 0;
-    margin-bottom: 1rem;
-    padding-bottom: 50%;
-    overflow: hidden;
+/*
+ _______  ___   _______    _______  ______    ___   ______  
+|       ||   | |       |  |       ||    _ |  |   | |      | 
+|    ___||   | |_     _|  |    ___||   | ||  |   | |  _    |
+|   |___ |   |   |   |    |   | __ |   |_||_ |   | | | |   |
+|    ___||   |   |   |    |   ||  ||    __  ||   | | |_|   |
+|   |    |   |   |   |    |   |_| ||   |  | ||   | |       |
+|___|    |___|   |___|    |_______||___|  |_||___| |______| 
+by Dave Rupert
+Read More: https://daverupert.com/2017/09/breaking-the-grid/
+*/
+
+/* 
+ * Remove `min-width: auto` from Grid Items
+ * Fixes overflow-x items.
+ */
+.fit-grid > * { min-width: 0; }
+
+/* Apply max-width to Replaced Elements and Form controls */
+.fit-grid img,
+.fit-grid video,
+.fit-grid audio,
+.fit-grid canvas,
+.fit-grid input,
+.fit-grid select,
+.fit-grid button,
+.fit-grid progress { max-width: 100%; }
+
+/* Make file and submit inputs text-wrap */
+.fit-grid input[type="file"],
+.fit-grid input[type="submit"] { white-space: pre-wrap; }
+
+/* Fix Progress and Range Inputs */
+.fit-grid progress,
+.fit-grid input[type="range"] { width: 100%; }
+
+/* Fix Number Inputs in Firefox */
+@supports (--moz-appearance: none) {
+  .fit-grid input[type="number"] { width: 100%; }
 }
