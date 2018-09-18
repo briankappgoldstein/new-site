@@ -232,11 +232,6 @@
 .post-content {
   margin-bottom: $spacing-unit;
 
-  @media screen and (min-width:62.5rem) {
-    margin-left: 5rem;
-    margin-right: 5rem;
-  }
-
   h2 {
     @include relative-font-size(2);
 
