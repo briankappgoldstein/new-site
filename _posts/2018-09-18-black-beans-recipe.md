@@ -4,14 +4,16 @@ categories: cooking culture food recipes cuban financial-peace dave-ramsey famil
 ---
 
 <p class="lead">This is the third in an on-going series of recipes and cooking posts.  For the previous two posts, see:
-1.  [here ](https://briankappgoldstein.github.io/aglio-e-olio-shows-what-americans-get-wrong)
-2.  and [here](https://briankappgoldstein.github.io/yankee-rice-recipe)</p>
+1.  <a href="/aglio-e-olio-shows-what-americans-get-wrong"> here</a> 
+2.  and <a href="/yankee-rice-recipe"> here</a>.</p>
 
 One of the things you should know about my family is that we are debt free. We don't owe a penny to anyone, and getting out off debt was one of the best things we've done as a family. We did it by going all in on the Dave Ramsey method, which, is for some people and not for others, but it worked for us. We still make a budget and we still pay cash for everything, including graduate tuition, cars, gas, plane tickets, you name it. 
 
 We even went on the Dave Ramsey show to do our debt free scream, and the money we saved allowed us to go on honeymoon in Maui. 
 
+<div class="flex-video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_uARS9TtAKM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 The reason I bring this up is multilayered: food is as much a reflection of where you are in your life as anything else, and also how it is useful to start with someone else's recipe first, while you learn, but then to move on to making a dish (or a budget) your own. 
 
