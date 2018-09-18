@@ -5,7 +5,7 @@ categories: cooking culture food recipes cuban financial-peace dave-ramsey famil
 
 *this is the third in an on-going series of recipes and cooking posts.  For the previous two posts, see:
 1.  [here ](https://briankappgoldstein.github.io/aglio-e-olio-shows-what-americans-get-wrong)
-2.  and [here](https://briankappgoldstein.github.io/yankee-rice-recipe) *
+2.  and [here](https://briankappgoldstein.github.io/yankee-rice-recipe)*
 
 One of the things you should know about my family is that we are debt free. We don't owe a penny to anyone, and getting out off debt was one of the best things we've done as a family. We did it by going all in on the Dave Ramsey method, which, is for some people and not for others, but it worked for us. We still make a budget and we still pay cash for everything, including graduate tuition, cars, gas, plane tickets, you name it. 
 
