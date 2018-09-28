@@ -33,6 +33,6 @@ Basically, it's 20-30 seconds work and 30-40 seconds rest for a half hour, rotat
 
 https://www.flotrack.org/video/6193758-workout-wednesday-circuit-with-harvards-gabby-thomas
 
-as an aside - simpler versions of most of the other movements shown in that video are ideal for a "general fitness" go to. 
+as an aside - simpler versions of most of the other movements shown in that video are ideal for a "general fitness" go to - I'll write more about that another time. 
 
 As I have no plans on rowing competitively, once I achieve these goals, I'll go back to doing more "general" work like this.
