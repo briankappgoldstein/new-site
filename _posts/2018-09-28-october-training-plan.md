@@ -10,26 +10,24 @@ I'm not even sure how much I weigh (although one guesses it's lighter than befor
 
 October I'll be playing flag football for the Seminary team. Practices are on Friday afternoons, and the competition (The Luther Bowl) is on Saturday October 27. 
 
-My "plan" is simple. I'm going to lift on Mondays and Wednesdays and Row on Tuesday and Thursdays. 
-The lifting will be low to moderate intensity with moderate to high volume - something like 8 reps for 4 sets for the big lifts, and some variety provided by all the new toys I have available. No set will be taken to failure, aiming for 2-3 reps in reserve at most intense. Rest periods will be short by powerlifting standards - 2-3 minutes  - to allow for a lot of volume.  Both days will train the entire body; likely starting with the squat or deadlift, then the press or bench press, then additional work to round things out: split squats, rows, back extensions, arm and ab work. 
-
-The rowing will be very simple too: 60 minutes at a steady state.  Get in, get the meters, get out. 
+The rowing will be very simple: 60 minutes at a lowish intensity steady state.  Get in, get the meters, get out. 
+The lifting will be pretty simple too. Lower intensity, moderate to high volume, wide variety of exercises - squatting and benching for sure, but also lat pull downs, cable rows, pull-ups, dumbbell rows, dumbbell presses, split squats, lunges, hyperextensions, arm work and ab work. The theme is a  General fitness, aiming to prepare for more intense rowing. 
 
 I'm focusing on rowing for several reasons: I enjoy it, it's reasonably low impact, and it's easy to quantify in a non-stupid way. 
 
 Since it doesn't look like powerlifting is in the cards for the foreseeable future, I want to knock off a few Rowing goals. 
 
-60 minutes: >15000m
-10k : under 40 minutes
-5k: under 18 minutes
-2k: under 7 minutes
+60 minutes: >15000m (i.e. a 2:00/500m pace)
+10k : 39:30 (1:58.5/500m) 
+5k: under 18:30.  (1:51/500m)
+2k: under 7 minutes (1:45/500m)
 500m: under 1 minute, 30 seconds.  
 
-November I'll start to get more specific toward these goals. By far the easiest one to improve is the 60 minute row. 
+November I'll start to get more specific toward these goals. By far the easiest one to improve is the 60 minute row - as your capacity builds, your average pace gets faster. You also become more efficient at the task of rowing, which has downstream effects on the shorter distances. That's where we'll start.  
 
-One thing I'll continue for October is a small home workout watching sports on saturdays. 
+One thing that I've been doing is a small home workout watching sports on the weekend. 
 
-Basically, it's 20-30 seconds work and 30-40 seconds rest for a half hour, rotating a wide variety of calishtenics exercises. It's great for recovery and looks a lot like the general strength and abs featured here: 
+Basically, it's 20-30 seconds work and 30-40 seconds rest for a half hour, rotating a wide variety of calishtenics exercises. It's great for recovery and looks a lot like the general strength and ab work featured here: 
 
 https://www.flotrack.org/video/6193758-workout-wednesday-circuit-with-harvards-gabby-thomas
 
