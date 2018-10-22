@@ -88,6 +88,11 @@ li {
   }
 }
 
+ul, ol {
+  padding-left: 0;
+  list-style-position: outside;
+}
+
 
 
 /**
@@ -156,6 +161,11 @@ blockquote {
   > :last-child {
     margin-bottom: 0;
   }
+}
+
+blockquote p {
+  hanging-punctuation: first;
+  text-indent: -0.5em;
 }
 
 .subtitle {
@@ -300,4 +310,8 @@ table {
     padding-bottom: 1em;
     font-size: 17px;
     line-height: 1.725;
+}
+
+p + p {
+  text-indent: 1em;
 }
