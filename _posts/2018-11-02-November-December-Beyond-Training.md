@@ -93,9 +93,10 @@ After this, there's about 10 weeks to two important events: first, my brother's 
 The training program for that can be broken down like this: the first 4 weeks will build a base of longer duration, lower rate, technical meters. Two days a week, and each time including builds like this warm-up:
 
 <blockquote>
-	10 minute build:</br>
-	Start at 16 strokes per minute (spm). go up 1 stroke per minute for the first 5 minutes, i.e.</br>
-	16-17-18-19-20</br>
+	10 minute build:
+	
+	Start at 16 strokes per minute (spm). go up 1 stroke per minute for the first 5 minutes, i.e.16-17-18-19-20
+	
 	then, go up a stroke every 30 seconds for the next 5 minutes, ending at 30spm. 
 </blockquote> 
 
