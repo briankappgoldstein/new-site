@@ -43,19 +43,19 @@ Enough talking, Goldstein. Show us the program!
 	</tr>
 	<tr>
 		<td>4</td>
-		<td>10 rounds of :25 seconds Hard + 1:30 Easy</td>
+		<td>10 rounds of :25 seconds Hard + 1:35 Easy</td>
 		<td>30 minutes, 5k pace + 2 seconds</td>
 		<td>4 rounds of 4:00 work + 2:00 rest 2k pace + 2</td>
 	</tr>
 	<tr>
 		<td>5</td>
-		<td>10 rounds of :25 seconds Hard + 1:30 Easy</td>
+		<td>10 rounds of :25 seconds Hard + 1:35 Easy</td>
 		<td>30 minutes, 5k pace + 2 seconds</td>
 		<td>3 rounds of 5:00 work + 2:00 rest 2k pace + 2</td>
 	</tr>
 	<tr>
 		<td>6</td>
-		<td>9 rounds of :30 seconds Hard + 1:30 Easy</td>
+		<td>9 rounds of :20 seconds Hard + 1:40 Easy</td>
 		<td>25 minutes, 5k pace</td>
 		<td>3 rounds of 5:00 work + 2:00 rest 2k pace</td>
 	</tr>
