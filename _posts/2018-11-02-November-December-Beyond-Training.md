@@ -78,9 +78,9 @@ My goals for this cycle are:
 		<td>5000m</td>
 	</thead>
 	<tr>
-		<td>500m - 1:35.9 (50th percentile)</td>
-		<td>2000m - 7:40.0 (Average) </td>
-		<td>5000m - 20:18.3 (Average) </td>
+		<td>1:35.9 (50th percentile)</td>
+		<td>7:40.0 (Average) </td>
+		<td>20:18.3 (Average) </td>
 	</tr>
 </table>
 
