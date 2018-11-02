@@ -26,7 +26,7 @@ Enough talking, Goldstein. Show us the program!
 	<tr>
 		<td>1</td>
 		<td>500m Time Trial - <strong> 1:41.2</strong></td>
-		<td>5000m Time Trial - <strong> 21:40.4</strong><em>PR</em></td>
+		<td>5000m Time Trial - <strong> 21:40.4</strong> <em>PR</em></td>
 		<td>2000m Time Trial - <strong> 7:57.9</strong></td>
 	</tr>
 	<tr>
@@ -92,13 +92,10 @@ After this, there's about 10 weeks to two important events: first, my brother's 
 
 The training program for that can be broken down like this: the first 4 weeks will build a base of longer duration, lower rate, technical meters. Two days a week, and each time including builds like this warm-up:
 
-<blockquote>
-	10 minute build:
-	
-	Start at 16 strokes per minute (spm). go up 1 stroke per minute for the first 5 minutes, i.e.16-17-18-19-20
-	
-	then, go up a stroke every 30 seconds for the next 5 minutes, ending at 30spm. 
-</blockquote> 
+<strong>10 minute build:</strong>
+<em>Start at 16 strokes per minute (spm). go up 1 stroke per minute for the first 5 minutes, i.e.16-17-18-19-20.</em>
+
+<em>Then, go up a stroke every 30 seconds for the next 5 minutes, ending at 30spm.</em> 
 
 In the final 6 weeks, still two days a week, like so: 
 
