@@ -110,32 +110,32 @@ In the final 6 weeks, still two days a week, like so:
 	</thead>
 	<tr>
 		<td>1</td>
-		<td>5x250m @500m pace, 60 seconds rest</td>
-		<td>2x500m @goal race pace, 3 minutes rest</td>
+		<td>5x250m at 500m pace, 60 seconds rest</td>
+		<td>2x500m at goal race pace, 3 minutes rest</td>
 	</tr>
 	<tr>
 		<td>2</td>
-		<td>5x250m @500m pace, 50 seconds rest</td>
-		<td>2x600m @goal race pace, 3 minutes rest</td>
+		<td>5x250m at 500m pace, 50 seconds rest</td>
+		<td>2x600m at goal race pace, 3 minutes rest</td>
 	</tr>
 	<tr>
 		<td>3</td>
-		<td>5x250m @500m pace, 40 seconds rest</td>
-		<td>2x700m @goal race pace, 3 minutes rest</td>
+		<td>5x250m at 500m pace, 40 seconds rest</td>
+		<td>2x700m at goal race pace, 3 minutes rest</td>
 	</tr>
 	<tr>
 		<td>4</td>
-		<td>5x250m @500m pace, 30 seconds rest</td>
-		<td>2x800m @goal race pace, 3 minutes rest</td>
+		<td>5x250m at 500m pace, 30 seconds rest</td>
+		<td>2x800m at goal race pace, 3 minutes rest</td>
 	</tr>
 	<tr>
 		<td>5</td>
-		<td>5x250m @500m pace, 20 seconds rest</td>
-		<td>2x900m @goal race pace, 3 minutes rest</td>
+		<td>5x250m at 500m pace, 20 seconds rest</td>
+		<td>2x900m at goal race pace, 3 minutes rest</td>
 	</tr>
 	<tr>
 		<td>6</td>
-		<td>5x250m @500m pace, 10 seconds rest</td>
+		<td>5x250m at 500m pace, 10 seconds rest</td>
 		<td>1000m race</td>
 	</tr>
 </table>
