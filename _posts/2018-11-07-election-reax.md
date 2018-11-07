@@ -28,3 +28,7 @@ Speaking of 2020: I think it's the dumbest parlor game in American politics to s
 * I hope that it is not a party elder. Much as I love and respect Hillary Clinton and Joe Biden, they obviously bring with them baggage which doesn't say change to voters. 
 * Bernie bros can join the party or GTFO. 
 * I don't know that anyone else is ready for primetime yet. I have excitement but real doubts about the obvious contenders right now. My presidential primary vote is up for grabs. Someone has to step up and show me that they are the leader we need - I don't know who that is right now. I don't know who best embodies our values or presents the best contrast with Trump; I don't know who can build a national organization to not just win but help build the party.
+
+Just something to keep in mind as we see things unfold over this session of congress and the 2020 primaries:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e2cjVhUrmII" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
