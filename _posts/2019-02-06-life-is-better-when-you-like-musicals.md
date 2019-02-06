@@ -35,10 +35,10 @@ What you find is that the more you fix, the more is to be ashamed for. The real 
 
 Whatever you're feeling right now; you're not alone. You're not some damaged and unlovable skrell, you're not without basic human dignity. More importantly, if you choose to see things this way, and talk about it honestly, you not only can have a life that's enjoyable to live but actually make art: 
 
-> And this next part, sounds like nonsense 
-> But I swear to God, Tina Fey gave me confidence
-> Taught me everything that is good comes from honesty
-> Everybody's got a voice, you just gotta follow it
-> She on her role model shit
+> And this next part, sounds like nonsense <br>
+> But I swear to God, Tina Fey gave me confidence <br>
+> Taught me everything that is good comes from honesty <br>
+> Everybody's got a voice, you just gotta follow it <br>
+> She on her role model shit 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7-AGnbm7Ul4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
