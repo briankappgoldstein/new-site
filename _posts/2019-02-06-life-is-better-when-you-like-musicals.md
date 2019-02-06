@@ -25,7 +25,7 @@ I don't that as much as anymore.  I'm learning to name, consider, even cherish e
 
 And this simple advice is probably more useful than just about anything else I've heard. Because the opposite of music or art is not something practical or profane, it is shame and anhedonia (the lack of pleasure at once pleasureable things). From an [advice column](https://www.thecut.com/2018/11/im-broke-and-friendless-and-ive-wasted-my-whole-life.html?_ga=2.133987214.1854493967.1544706156-10559497.1543243692):
 
-> [Art is] It’s a way of seeing your life through a lens that makes everything — good and bad, confusing > and clarifying, uplifting and depressing — valuable. Shame is the opposite of art. When you live inside > of your shame, everything you see is inadequate and embarrassing. 
+> [Art is] It’s a way of seeing your life through a lens that makes everything — good and bad, confusing and clarifying, uplifting and depressing — valuable. Shame is the opposite of art. When you live inside of your shame, everything you see is inadequate and embarrassing. 
 
 Yes, exactly. I get to choose what to do with things that happen to me. I can choose to see everything as having value or choose to see things as worthless. Guess which one I was socialized to see?
 
@@ -35,10 +35,10 @@ What you find is that the more you fix, the more is to be ashamed for. The real 
 
 Whatever you're feeling right now; you're not alone. You're not some damaged and unlovable skrell, you're not without basic human dignity. More importantly, if you choose to see things this way, and talk about it honestly, you not only can have a life that's enjoyable to live but actually make art: 
 
-*> And this next part, sounds like nonsense
-> But I swear to God, Tina Fey gave me confidence
-> Taught me everything that is good comes from honesty
-> Everybody's got a voice, you just gotta follow it
-> She on her role model shit*
+*> And this next part, sounds like nonsense 
+But I swear to God, Tina Fey gave me confidence
+Taught me everything that is good comes from honesty
+Everybody's got a voice, you just gotta follow it
+She on her role model shit*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7-AGnbm7Ul4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
