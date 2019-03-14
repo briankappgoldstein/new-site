@@ -8,7 +8,7 @@ In the episode "The Fifth Vital Sign", the point that stood out most to me was t
 
 As the show says - the point is not emotional repression, some 1950's era psychology getting a rebrand; but rather to provide the patients with the tools needed to think about and defuse the stress causing the experience of pain. 
 
-![Invisibilia episode art](/safe-image.jpg)
+![Invisibilia episode art](/safe_image.jpg)
 
 At my job, which has many different aspects to it, but in particular writing CSS that defines how a web app looks and feels and is experienced by a user, we like to say that naming things is the hardest part.  Turns out, we're right - naming things is the hardest part of experience, and needs to be done with care and attention in order to prevent it from becoming an automatic loop of toxic behaviors. 
 
@@ -55,8 +55,6 @@ and to finish:
 
 ### THROWING FECES IN THE GOOD PLACE
 
-![Chidi, mid breakdown, pre-chili](/18-good-place-chidi.w700.h467.png)
-
 There's three basic philosophical approaches to morality: 
 1. Virtue Ethics - I do good because I am good
 2. Deontology - I do good because some acts are good and some acts are bad, in and of themselves. 
@@ -69,6 +67,8 @@ But, what I want to point out is this: There's a study by Greene and Paxton. Sub
 However,  this test was framed as studying paranormal abilities, and rather than state their prediction before the toss like in a bet, they just had to say afterward if they were right.  It's about who cheats, how often and why. 
 
 About a third of subjects cheated like crazy.  Another 6th were almost big cheaters - that's half of the people studied.  When they cheat, the area of the brain responsible for decision making lit up, but not the area of the brain around moral conflict. When they didn't cheat and instead resisted? That part - the anterior cingulate cortex (ACC) lit up like crazy too. In other words, cheaters gone cheat and if they don't, it's really costly on a neurobiological level. 
+
+![Chidi, mid breakdown, pre-chili](/18-good-place-chidi.w700.h467.png)
 
 But here's another side to this study: There were people who never cheated. A good amount, too. And was it "willpower"? No. Not really.  The same brain regions the cheaters needed to use were turned off. The truthful subjects might as well have been walking down the street or washing dishes - their brains were running as they normally would. In other words: they weren't struggling with the choice.  The choice to not cheat had become automatic to them. 
 
@@ -101,8 +101,6 @@ This happens ALL of the time. And as someone in technology, studying accounting,
 And it blinds us to the obvious point of quantitative science and math in the first place: they help explain what it is we're seeing, but don't actually answer any questions. 
 
 At their best, they can point us to asking better questions. 
-
-![](/math_evangelist.jpg)
 
 Consider how absurd it is that fictional work can describe accurate truths using entirely imaginary people, places, and things.  Why? Because there is an experience that can be described, be named, be felt, and can point to greater truths than what is measurable (or often, more damningly that what is measured is only what can easily by measured). 
 
@@ -180,8 +178,6 @@ My wife just accepted her field placement for her seminary formation. The rector
 Now that I think about it, it's a version of the second most famous ghost story (Hamlet, which is absolultely a ghost story, and the first most famous is Jesus' resurection). 
 
 One of the points she made was when the ghost of Mufasa says to Simba "Remember who you are," its not about shaming Simba. We know this because the very next line "You are my son;" and the subtext there is "and you are loved. You are not your worst act." 
-
-![](/mufasa.jpeg)
 
 It's worth noting several things. Simba at this point believes that his worst act was inadvertendly killing his father (when he was merely coincidental to his father's death); he's been taken in and cared for by self described outcasts (who run their life through a silly aphorism of "No Worries") for years, and is believed dead by everyone. The only character he thinks knows the "truth" about him is Scar (his uncle and the usurper king) who told Simba to run away and never return. 
 
