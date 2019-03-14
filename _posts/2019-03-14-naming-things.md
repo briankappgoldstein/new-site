@@ -191,7 +191,7 @@ What I hadn't appreciated is that Timon and Pumba go too. They have no skin in t
 
 But Scar still has the trump card; he can reveal the "truth" about Simba to the pride. Which he tries to do to avert the challenge from Simba (it doesn't work - Simba is now strong enough to know he has to do the right thing, even if that's true) 
 
-In other words - it's only after years of love and support from people you would cross the street to avoid and a sufficiently motivating experience that you return to confront the worst parts of yourself. 
+In other words - it's only after years of love and support and a sufficiently motivating experience that you return to confront the worst parts of yourself. 
 
 ### It Goes On. 
 ![](/IMG_1271.jpg)
