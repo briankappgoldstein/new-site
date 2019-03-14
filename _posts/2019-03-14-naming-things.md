@@ -8,7 +8,7 @@ In the episode "The Fifth Vital Sign", the point that stood out most to me was t
 
 As the show says - the point is not emotional repression, some 1950's era psychology getting a rebrand; but rather to provide the patients with the tools needed to think about and defuse the stress causing the experience of pain. 
 
-![Invisibilia episode art](/safe_image.jpg)
+![Invisibilia episode art](/safe_image.jpeg)
 
 At my job, which has many different aspects to it, but in particular writing CSS that defines how a web app looks and feels and is experienced by a user, we like to say that naming things is the hardest part.  Turns out, we're right - naming things is the hardest part of experience, and needs to be done with care and attention in order to prevent it from becoming an automatic loop of toxic behaviors. 
 
