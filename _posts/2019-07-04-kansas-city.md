@@ -90,7 +90,7 @@ There are a few reasons they were so good. This was their best performance and I
 
 For about an hour, I felt better. 
 
-![](/concert.jpg)
+![](/zMbg5HgZQjaAngdHoWNI4w_thumb_561.jpg)
 
 After they left the stage, however, I bolted for the bathroom and barely made it in to a stall in time. Outside, the sun was setting, and my body couldn't stay warm enough - despite it being 85 degrees.  
 
