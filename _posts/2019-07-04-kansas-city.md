@@ -92,6 +92,8 @@ There are a few reasons they were so good. This was their best performance and I
 
 For about an hour, I felt better. 
 
+
+
 After they left the stage, however, I bolted for the bathroom and barely made it in to a stall in time. Outside, the sun was setting, and my body couldn't stay warm enough - despite it being 85 degrees.  
 
 3EB came out, played 4 songs off an album no one has heard yet, had the bass turned up too high on the monitor (so much I thought they might cause me to soil myself) and Stephen's voice sounded awful. I don't know if he was sick or drunk or he's simply done, but i'm telling you, your average choir singer could've done a better job. 
